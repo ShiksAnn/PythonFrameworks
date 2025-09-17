@@ -1,5 +1,4 @@
 # PythonFrameworks
-# Python-Frameworks
 
 # 📊 CORD-19 Data Explorer
 
